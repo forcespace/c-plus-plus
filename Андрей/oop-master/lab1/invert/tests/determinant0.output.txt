@@ -1,0 +1,1 @@
+There is no inverse matrix. Determinant is 0

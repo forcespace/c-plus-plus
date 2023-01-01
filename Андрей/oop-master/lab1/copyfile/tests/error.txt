@@ -1,0 +1,1 @@
+Wrond input. Params should be: copyfile.exe <input file name> <output file name>

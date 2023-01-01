@@ -1,0 +1,14 @@
+fus:слово силы
+
+reg right brother:Красный Правый Брат
+
+what:зачем, что
+
+Красный Правый Брат:reg right brother
+
+зачем:what
+
+слово силы:fus
+
+что:what
+

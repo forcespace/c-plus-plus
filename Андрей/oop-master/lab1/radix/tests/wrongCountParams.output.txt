@@ -1,0 +1,1 @@
+Wrond input. Params should be: radix.exe <source notation> <destination notation> <value>

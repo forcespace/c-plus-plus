@@ -1,0 +1,1 @@
+Wrond input. Params should be: fill.exe <matrix input file> <matrix output file>
